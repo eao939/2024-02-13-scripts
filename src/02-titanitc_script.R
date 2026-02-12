@@ -30,3 +30,8 @@ main <- function(var) {
 }
 
 main(opt$var)
+
+
+
+#notice how the entire script is a function?
+
